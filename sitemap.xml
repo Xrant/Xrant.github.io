@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%97%90-%EC%98%A4%EC%8B%A0-%EA%B2%83%EC%9D%84-%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4/</loc>
+<lastmod>2022-10-27T12:00:00+09:00</lastmod>
+</url>
+<url>
+<loc>/categories/</loc>
+<lastmod>2022-10-27T14:55:02+09:00</lastmod>
+</url>
+<url>
+<loc>/tags/</loc>
+<lastmod>2022-10-27T14:55:02+09:00</lastmod>
+</url>
+<url>
+<loc>/archives/</loc>
+<lastmod>2022-10-27T14:55:02+09:00</lastmod>
+</url>
+<url>
+<loc>/about/</loc>
+<lastmod>2022-10-27T14:55:02+09:00</lastmod>
+</url>
+<url>
+<loc>/</loc>
+</url>
+<url>
+<loc>/categories/%EB%B8%94%EB%A1%9C%EA%B7%B8/</loc>
+</url>
+<url>
+<loc>/categories/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/</loc>
+</url>
+</urlset>
